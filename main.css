@@ -1,0 +1,14 @@
+li,p {
+    font-size: 25px;
+    font-family: 'Raleway', sans-serif;
+}
+
+body {
+        padding: 0 150px;
+}
+
+hr {
+    height: 3px;
+    background: black;
+}
+
